@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Mio! 👋
+
+[![Mio's github stats](https://github-readme-stats.vercel.app/api?username=mmiooimm&show_icons=true)](https://github.com/MMiooiMM)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmiooimm&hide=html&layout=compact)](https://github.com/MMiooiMM?tab=repositories)
 
 <!--
 **MMiooiMM/MMiooiMM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
